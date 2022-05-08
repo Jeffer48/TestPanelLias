@@ -1,0 +1,36 @@
+{
+  "name": "lia-panel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "cypress": "cypress open",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "1.1.7",
+    "@chakra-ui/react": "1.8.7",
+    "@emotion/react": "11.8.2",
+    "@emotion/styled": "11.8.1",
+    "axios": "0.26.1",
+    "form-urlencoded": "6.0.6",
+    "formik": "^2.2.9",
+    "framer-motion": "6.2.8",
+    "moment": "2.29.3",
+    "next": "12.1.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "4.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.23",
+    "@types/react": "17.0.43",
+    "@types/react-dom": "17.0.14",
+    "cypress": "9.5.2",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.1",
+    "typescript": "4.6.3"
+  }
+}
